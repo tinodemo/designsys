@@ -51,7 +51,15 @@
   "layers": [
     {
       "class": "group",
+      "id": "8B8D630B-6506-42E6-8937-362737DDC3AE"
+    },
+    {
+      "class": "group",
       "id": "E7403186-AE87-4061-B7AB-A0AE15E4D24E"
+    },
+    {
+      "class": "group",
+      "id": "4E18A3B7-FBF1-44FE-BBAA-0F84FA918B13"
     },
     {
       "class": "group",
